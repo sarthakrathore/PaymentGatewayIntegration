@@ -1,0 +1,7 @@
+DAA pr2
+Aim:to develop a code for merge sort and analyze its time complexity.
+
+
+DCN pr6:
+To give the IP address
+
